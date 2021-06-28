@@ -18,4 +18,4 @@ Since Big Int is not an inbuild datatype in the C programming language, therefor
 2. Multiplication (*)
 3. Subtraction (-)
 
-The program allows the user to test each of these operations of 2 numbers of the Big Int datatype.
+The program allows the user to test each of these operations on 2 numbers of the Big Int datatype.
